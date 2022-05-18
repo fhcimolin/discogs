@@ -1,0 +1,228 @@
+<html>
+    <body>
+        <div>
+            <a href="https://cors-anywhere.herokuapp.com/corsdemo">CORS</a>
+        </div>
+        <div>
+            <input type="file" name="file" id="file">
+        </div>
+        <br/>
+        <div style="display: none;">
+            <span>
+                Min.<input type="text" id="min"/>
+            </span>
+            <span>
+                Max.<input type="text" id="max"/>
+            </span>
+        </div>
+        <div>
+            <span>
+                Ti<input type="text" id="titleForm"/>
+            </span>
+            <span>
+                Ar<input type="text" id="artistForm"/>
+            </span>
+        </div>
+        <div>
+            <button id="btnPesquisar" onclick="pesquisar()">search</button>
+        </div>
+        <div>
+            <button id="btndownload" onclick="downloadResult()">💾</button>
+        </div>
+        <br/>
+        <div id="divProg" style="visibility: hidden;">
+            <label id="lbProg" for="prog"></label>
+            <progress id="prog" value="0" max="1"></progress>
+        </div>
+        <div>
+            <textarea id="result" style="width: 70%; height: 100%;"></textarea>
+        </div>
+
+        <script>
+            var proxy_server = "https://cors-anywhere.herokuapp.com/";
+            var intervalId;
+            var output = [];
+
+            Object.defineProperty(navigator, 'userAgent', {
+                get: function () { return 'FlavioAlbums/0.1'; }
+            });
+
+            function lineCount( text ) {
+                var nLines = 0;
+                for( var i = 0, n = text.length;  i < n;  ++i ) {
+                    if( text[i] === '\n' ) {
+                        ++nLines;
+                    }
+                }
+                return nLines;
+            }
+
+            document.getElementById('file').onchange = function(){
+
+                var file = this.files[0];
+
+                var reader = new FileReader();
+
+                document.getElementById("btndownload").disabled = false;
+
+                reader.onload = function(progressEvent){
+                    iterar(this.result);
+                };
+
+                reader.readAsText(file);
+            };
+
+            var i = 0;
+            var ids = [];
+
+            async function iterar(textasso){
+                var lines = textasso.split('\n');
+
+                var min = document.getElementById("min").value;
+                var max = document.getElementById("max").value;
+                
+                
+                document.getElementById("divProg").style.visibility = "visible";
+                document.getElementById("prog").max = lines.length - min;
+                document.getElementById("lbProg").innerText = min + "/" + lines.length;
+
+                if(!min){
+                    min=0;
+                }
+
+                if(!max){
+                    max= lines.length;
+                }
+                
+                i = min;
+                
+                intervalId = setInterval(async () => {
+                    document.getElementById("prog").value = i - min;
+                    document.getElementById("lbProg").innerText = parseInt((i - min) / (lines.length - min) * 100) + "%\t" + (i - min) + "/" + (lines.length - min);
+                    
+                    if(i >= max){
+                        clearInterval(intervalId);
+                    }
+                    var nome = lines[i]?.replace("\r",'');
+                    
+                    if(!ids.includes(i)){
+                        ids.push(i);
+                        await pegaCover(nome);
+                    }
+                }, 260);
+            }
+
+            async function pesquisar(){
+                var title = document.getElementById("titleForm").value;
+                var artist = document.getElementById("artistForm").value;
+
+                var json = {
+                    id: 0,
+                    nome: title,
+                    artista: artist
+                }
+
+                iterar(JSON.stringify(json));
+            }
+
+            async function pegaCover(albumInput){
+                if(!albumInput){
+                    return;
+                }
+
+                var albumObj = JSON.parse(albumInput);
+
+                var id = albumObj.id;
+                var nome = albumObj.nome;
+                var artist = albumObj.artista;
+
+                // var url = "https://api.discogs.com/database/search?q=" + albumInput +"&type=release";
+                var url = "http://api.discogs.com/database/search?title="+nome+"&artist="+artist;
+                
+                // http://api.discogs.com/database/search?title=the+whole+love&artist=wilco
+                
+                fetch(proxy_server + url, {
+                    headers: {
+                        'Authorization': 'Discogs key=oJvmEApitUbRWZaLeqIJ, secret=sRVjugrgXkHTJkCbFcdeBzQZxMHwcOjV'
+                    }
+                }).then(
+                    function(response) {
+                        return response.json();
+                    }
+                ).then(
+                    function(data){
+                        // let obj = JSON.parse(response);
+    
+                        // var obj = data.json();
+
+                        if(data.results.length>0){
+                            var album = data.results.find(x => x.type == "master");
+
+                            if(!album){
+                                var albumsSorted = data.results.sort((a,b) => b.year - a.year);
+                                album = albumsSorted[0];
+                            }
+
+                            // var album = data.results[0];
+
+                            var url = album.cover_image;
+                            var genre = album.genre[0];
+                            // var platformName = game.platforms[0]?.name;
+
+                            // url = url.replace("t_thumb", "t_cover_big");
+                            // url = url.replace("//", "");
+                            // url = url.replace("images.igdb.com", "http://images.igdb.com");
+
+                            var outputJson = {
+                                id: id,
+                                name: nome,
+                                url: url,
+                                genre: genre
+                            };
+                            // output.push(outputJson);
+
+                            document.getElementById("result").textContent += JSON.stringify(outputJson) + ",\n";
+
+                            // document.getElementById("result").textContent += nome + " \\\\ " + url + " \\\\ " + "genre: " + genre + " \\\\ country: " + country + "\n";
+                        }
+                        else{
+                            var outputJson = {
+                                id: id,
+                                name: nome,
+                                url: "nope",
+                                genre: "nope"
+                            };
+
+                            document.getElementById("result").textContent += JSON.stringify(outputJson) + " \\\\ " + 'Não encontrado' + "\n";
+                        }
+
+                        i++;
+                    }
+                ).catch(
+                    function(response){
+                        var outputJson = {
+                            id: id,
+                            name: nome,
+                            url: "nope",
+                            genre: "nope"
+                        };
+
+                        document.getElementById("result").textContent += JSON.stringify(outputJson) + " \\\\ " + 'Deu bagulho' + "\n";
+
+                        i++;
+                    }
+                );
+            }
+
+            function downloadResult(){
+                var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(output));
+                var downloadAnchorNode = document.createElement('a');
+                downloadAnchorNode.setAttribute("href",     dataStr);
+                downloadAnchorNode.setAttribute("download", "output.json");
+                document.body.appendChild(downloadAnchorNode);
+                downloadAnchorNode.click();
+                downloadAnchorNode.remove();
+            }
+        </script>
+    </body>
+</html>

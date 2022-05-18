@@ -1,0 +1,1001 @@
+{"id":1, "nome": "In The Wee Small Hours", "artista": "Frank Sinatra" }
+{"id":2, "nome": "Birth of the Cool", "artista": "Miles Davis" }
+{"id":3, "nome": "Ellington at Newport", "artista": "Duke Ellington" }
+{"id":4, "nome": "Elvis Presley", "artista": "Elvis Presley" }
+{"id":5, "nome": "Songs For Swingin' Lovers", "artista": "Frank Sinatra" }
+{"id":6, "nome": "Tragic Songs Of Life", "artista": "The Louvin Brothers" }
+{"id":7, "nome": "Brilliant Corners", "artista": "Thelonious Monk" }
+{"id":8, "nome": "Here's Little Richard", "artista": "Little Richard" }
+{"id":9, "nome": "Kenya", "artista": "Machito" }
+{"id":10, "nome": "Palo Congo", "artista": "Sabu" }
+{"id":11, "nome": "The 'Chirping' Crickets", "artista": "The Crickets" }
+{"id":12, "nome": "The Atomic Mr Basie", "artista": "Count Basie" }
+{"id":13, "nome": "The Wildest", "artista": "Louis Prima" }
+{"id":14, "nome": "This is Fats Domino", "artista": "Fats Domino" }
+{"id":15, "nome": "Dance Mania", "artista": "Tito Puente" }
+{"id":16, "nome": "Jack Takes the Floor", "artista": "Ramblin' Jack Elliott" }
+{"id":17, "nome": "Lady in Satin", "artista": "Billie Holiday" }
+{"id":18, "nome": "Live at Mister Kelly's", "artista": "Sarah Vaughan" }
+{"id":19, "nome": "George Gershwin Songbook", "artista": "Ella Fitzgerald" }
+{"id":20, "nome": "Gunfighter Ballads And Trail Songs", "artista": "Marty Robbins" }
+{"id":21, "nome": "Kind of Blue", "artista": "Miles Davis" }
+{"id":22, "nome": "The Genius of Ray Charles", "artista": "Ray Charles" }
+{"id":23, "nome": "Time Out", "artista": "Dave Brubeck Quartet" }
+{"id":24, "nome": "A Date with the Everly Brothers", "artista": "The Everly Bothers" }
+{"id":25, "nome": "Elvis is Back!", "artista": "Elvis Presley" }
+{"id":26, "nome": "Joan Baez", "artista": "Joan Baez" }
+{"id":27, "nome": "Miriam Makeba", "artista": "Miriam Makeba" }
+{"id":28, "nome": "Muddy Waters at Newport", "artista": "Muddy Waters" }
+{"id":29, "nome": "Back at the Chicken Shack", "artista": "Jimmy Smith" }
+{"id":30, "nome": "Sunday at the Village Vanguard", "artista": "Bill Evans" }
+{"id":31, "nome": "Green Onions", "artista": "Booker T & The MGs" }
+{"id":32, "nome": "Jazz Samba", "artista": "Stan Getz/Charlie Byrd" }
+{"id":33, "nome": "Modern Sounds In Country And Western Music", "artista": "Ray Charles" }
+{"id":34, "nome": "A Christmas Gift To You", "artista": "Phil Spector" }
+{"id":35, "nome": "Live at the Apollo", "artista": "James Brown" }
+{"id":36, "nome": "Live At The Harlem Square Club", "artista": "Sam Cooke" }
+{"id":37, "nome": "Night Life", "artista": "Ray Price" }
+{"id":38, "nome": "The Black Saint and the Sinner Lady", "artista": "Charles Mingus" }
+{"id":39, "nome": "With The Beatles", "artista": "The Beatles" }
+{"id":40, "nome": "A Girl Called Dusty", "artista": "Dusty Springfield" }
+{"id":41, "nome": "A Hard Day's Night", "artista": "The Beatles" }
+{"id":42, "nome": "A Love Supreme", "artista": "John Coltrane" }
+{"id":43, "nome": "Bert Jansch", "artista": "Bert Jansch" }
+{"id":44, "nome": "Getz/Gilberto", "artista": "Stan Getz/Joao Gilberto" }
+{"id":45, "nome": "Olympia '64", "artista": "Jacques Brel" }
+{"id":46, "nome": "Rock & Soul", "artista": "Solomon Burke" }
+{"id":47, "nome": "The Freewheelin' Bob Dylan", "artista": "Bob Dylan" }
+{"id":48, "nome": "The Rolling Stones", "artista": "The Rolling Stones" }
+{"id":49, "nome": "Bringing It All Back Home", "artista": "Bob Dylan" }
+{"id":50, "nome": "Here Are The Sonics", "artista": "The Sonics" }
+{"id":51, "nome": "Highway 61 Revisited", "artista": "Bob Dylan" }
+{"id":52, "nome": "I've Got A Tiger By The Tail", "artista": "Buck Owens" }
+{"id":53, "nome": "Live At The Regal", "artista": "BB King" }
+{"id":54, "nome": "Live At The Star Club, Hamburg", "artista": "Jerry Lee Lewis" }
+{"id":55, "nome": "Mr Tambourine Man", "artista": "The Byrds" }
+{"id":56, "nome": "My Generation", "artista": "The Who" }
+{"id":57, "nome": "Otis Blue", "artista": "Otis Redding" }
+{"id":58, "nome": "Rubber Soul", "artista": "The Beatles" }
+{"id":59, "nome": "Today!", "artista": "The Beach Boys" }
+{"id":60, "nome": "Aftermath", "artista": "The Rolling Stones" }
+{"id":61, "nome": "Black Monk Time", "artista": "The Monks" }
+{"id":62, "nome": "Blonde On Blonde", "artista": "Bob Dylan" }
+{"id":63, "nome": "Bluesbreakers with Eric Clapton", "artista": "John Mayall's Bluesbreakers" }
+{"id":64, "nome": "Face to Face", "artista": "The Kinks" }
+{"id":65, "nome": "Fifth Dimension", "artista": "The Byrds" }
+{"id":66, "nome": "Freak Out!", "artista": "Frank Zappa and the Mothers of Invention" }
+{"id":67, "nome": "Fred Neil", "artista": "Fred Neil" }
+{"id":68, "nome": "Mamas And The Papas", "artista": "Mamas And The Papas" }
+{"id":69, "nome": "Midnight Ride", "artista": "Paul Revere and the Raiders" }
+{"id":70, "nome": "Parsley, Sage, Rosemary and Thyme", "artista": "Simon & Garfunkel" }
+{"id":71, "nome": "Pet Sounds", "artista": "The Beach Boys" }
+{"id":72, "nome": "Revolver", "artista": "The Beatles" }
+{"id":73, "nome": "Sunshine Superman", "artista": "Donovan" }
+{"id":74, "nome": "The Psychedelic Sounds of the 13th Floor Elevators", "artista": "The 13th Floor Elevators" }
+{"id":75, "nome": "Wild is the Wind", "artista": "Nina Simone" }
+{"id":76, "nome": "Yardbirds", "artista": "The Yardbirds" }
+{"id":77, "nome": "Are You Experienced?", "artista": "The Jimi Hendrix Experience" }
+{"id":78, "nome": "Axis: Bold As Love", "artista": "The Jimi Hendrix Experience" }
+{"id":79, "nome": "Buffalo Springfield Again", "artista": "Buffalo Springfield" }
+{"id":80, "nome": "Chelsea Girl", "artista": "Nico" }
+{"id":81, "nome": "Da Capo", "artista": "Love" }
+{"id":82, "nome": "Disraeli Gears", "artista": "Cream" }
+{"id":83, "nome": "Don't Come Home A-Drinkin'", "artista": "Loretta Lynn" }
+{"id":84, "nome": "Electric Music For The Mind And Body", "artista": "Country Joe And The Fish" }
+{"id":85, "nome": "Forever Changes", "artista": "Love" }
+{"id":86, "nome": "Francis Albert Sinatra & Antonio Carlos Jobim", "artista": "Francis Albert Sinatra & Antonio Carlos Jobim" }
+{"id":87, "nome": "Goodbye And Hello", "artista": "Tim Buckley" }
+{"id":88, "nome": "Groovin'", "artista": "The Young Rascals" }
+{"id":89, "nome": "Headquarters", "artista": "The Monkees" }
+{"id":90, "nome": "The Electric Prunes", "artista": "The Electric Prunes" }
+{"id":91, "nome": "I Never Loved a Man the Way That I Love You", "artista": "Aretha Franklin" }
+{"id":92, "nome": "I'm A Lonesome Fugitive", "artista": "Merle Haggard" }
+{"id":93, "nome": "Moby Grape", "artista": "Moby Grape" }
+{"id":94, "nome": "Safe As Milk", "artista": "Captain Beefheart and His Magic Band" }
+{"id":95, "nome": "Sgt Pepper's Lonely Hearts Club Band", "artista": "The Beatles" }
+{"id":96, "nome": "Something Else by The Kinks", "artista": "The Kinks" }
+{"id":97, "nome": "Surrealistic Pillow", "artista": "Jefferson Airplane" }
+{"id":98, "nome": "The Doors", "artista": "The Doors" }
+{"id":99, "nome": "The Piper at the Gates of Dawn", "artista": "Pink Floyd" }
+{"id":100, "nome": "The Velvet Underground & Nico", "artista": "The Velvet Underground" }
+{"id":101, "nome": "The Who Sell Out", "artista": "The Who" }
+{"id":102, "nome": "Triangle", "artista": "The Beau Brummels" }
+{"id":103, "nome": "We're Only in it for the Money", "artista": "The Mothers of Invention" }
+{"id":104, "nome": "White Light/White Heat", "artista": "The Velvet Underground" }
+{"id":105, "nome": "Younger Than Yesterday", "artista": "The Byrds" }
+{"id":106, "nome": "Songs Of Leonard Cohen", "artista": "Leonard Cohen" }
+{"id":107, "nome": "Aretha: Lady Soul", "artista": "Aretha Franklin" }
+{"id":108, "nome": "Beach Samba", "artista": "Astrud Gilberto" }
+{"id":109, "nome": "Beggars Banquet", "artista": "The Rolling Stones" }
+{"id":110, "nome": "Bookends", "artista": "Simon & Garfunkel" }
+{"id":111, "nome": "Caetano Veloso", "artista": "Caetano Veloso" }
+{"id":112, "nome": "Cheap Thrills", "artista": "Big Brother and the Holding Company" }
+{"id":113, "nome": "Electric Ladyland", "artista": "The Jimi Hendrix Experience" }
+{"id":114, "nome": "Eli And The Thirteenth Confession", "artista": "Laura Nyro" }
+{"id":115, "nome": "Happy Sad", "artista": "Tim Buckley" }
+{"id":116, "nome": "In-a-gadda-da-vida", "artista": "Iron Butterfly" }
+{"id":117, "nome": "At Folsom Prison", "artista": "Johnny Cash" }
+{"id":118, "nome": "Music from Big Pink", "artista": "The Band" }
+{"id":119, "nome": "Oar", "artista": "Alexander 'Skip' Spence" }
+{"id":120, "nome": "Odessey And Oracle", "artista": "The Zombies" }
+{"id":121, "nome": "Ogden's Nut Gone Flake", "artista": "The Small Faces" }
+{"id":122, "nome": "Os Mutantes", "artista": "Os Mutantes" }
+{"id":123, "nome": "Scott 2", "artista": "Scott Walker" }
+{"id":124, "nome": "SF Sorrow", "artista": "The Pretty Things" }
+{"id":125, "nome": "Sweetheart Of The Rodeo", "artista": "The Byrds" }
+{"id":126, "nome": "The Beatles (White Album)", "artista": "The Beatles" }
+{"id":127, "nome": "The Call of the Valley", "artista": "Shivkumar Sharma/Brijbushan Kabra/Hariprasad Chaurasia" }
+{"id":128, "nome": "The Hangman's Beautiful Daughter", "artista": "The Incredible String Band" }
+{"id":129, "nome": "The Notorious Byrd Brothers", "artista": "The Byrds" }
+{"id":130, "nome": "The Sounds of India", "artista": "Ravi Shankar" }
+{"id":131, "nome": "The United States Of America", "artista": "The United States Of America" }
+{"id":132, "nome": "Tommy", "artista": "The Who" }
+{"id":133, "nome": "Traffic", "artista": "Traffic" }
+{"id":134, "nome": "Truth", "artista": "Jeff Beck Group" }
+{"id":135, "nome": "Village Green Preservation Society", "artista": "The Kinks" }
+{"id":136, "nome": "Vincebus Eruptum", "artista": "Blue Cheer" }
+{"id":137, "nome": "Abbey Road", "artista": "The Beatles" }
+{"id":138, "nome": "Arthur, or the Decline and Fall of the British Empire", "artista": "The Kinks" }
+{"id":139, "nome": "Astral Weeks", "artista": "Van Morrison" }
+{"id":140, "nome": "Basket Of Light", "artista": "Pentangle" }
+{"id":141, "nome": "Bayou Country", "artista": "Creedence Clearwater Revival" }
+{"id":142, "nome": "Blood, Sweat And Tears", "artista": "Blood, Sweat And Tears" }
+{"id":143, "nome": "Chicago Transit Authority", "artista": "Chicago" }
+{"id":144, "nome": "Cloud Nine", "artista": "The Temptations" }
+{"id":145, "nome": "Crosby, Stills And Nash", "artista": "Crosby, Stills And Nash" }
+{"id":146, "nome": "Dusty in Memphis", "artista": "Dusty Springfield" }
+{"id":147, "nome": "Elephant Mountain", "artista": "The Youngbloods" }
+{"id":148, "nome": "Everybody Knows This Is Nowhere", "artista": "Neil Young" }
+{"id":149, "nome": "Five Leaves Left", "artista": "Nick Drake" }
+{"id":150, "nome": "From Elvis in Memphis", "artista": "Elvis Presley" }
+{"id":151, "nome": "Green River", "artista": "Creedence Clearwater Revival" }
+{"id":152, "nome": "Gris Gris", "artista": "Dr John" }
+{"id":153, "nome": "Happy Trails", "artista": "Quicksilver Messenger Service" }
+{"id":154, "nome": "Hot Buttered Soul", "artista": "Isaac Hayes" }
+{"id":155, "nome": "Hot Rats", "artista": "Frank Zappa" }
+{"id":156, "nome": "In A Silent Way", "artista": "Miles Davis" }
+{"id":157, "nome": "In The Court of the Crimson King", "artista": "King Crimson" }
+{"id":158, "nome": "At San Quentin", "artista": "Johnny Cash" }
+{"id":159, "nome": "Kick Out The Jams", "artista": "The MC5" }
+{"id":160, "nome": "Led Zeppelin I", "artista": "Led Zeppelin" }
+{"id":161, "nome": "Led Zeppelin II", "artista": "Led Zeppelin" }
+{"id":162, "nome": "Let It Bleed", "artista": "The Rolling Stones" }
+{"id":163, "nome": "Liege And Lief", "artista": "Fairport Convention" }
+{"id":164, "nome": "Odessa", "artista": "The Bee Gees" }
+{"id":165, "nome": "Scott 4", "artista": "Scott Walker" }
+{"id":166, "nome": "Songs From A Room", "artista": "Leonard Cohen" }
+{"id":167, "nome": "Stand!", "artista": "Sly & The Family Stone" }
+{"id":168, "nome": "The Band", "artista": "The Band" }
+{"id":169, "nome": "The Gilded Palace of Sin", "artista": "The Flying Burrito Brothers" }
+{"id":170, "nome": "The Stooges", "artista": "The Stooges" }
+{"id":171, "nome": "The Velvet Underground", "artista": "The Velvet Underground" }
+{"id":172, "nome": "Trout Mask Replica", "artista": "Captain Beefheart and His Magic Band" }
+{"id":173, "nome": "Unhalfbricking", "artista": "Fairport Convention" }
+{"id":174, "nome": "Abraxas", "artista": "Santana" }
+{"id":175, "nome": "After The Gold Rush", "artista": "Neil Young" }
+{"id":176, "nome": "All Things Must Pass", "artista": "George Harrison" }
+{"id":177, "nome": "American Beauty", "artista": "The Grateful Dead" }
+{"id":178, "nome": "Ananda Shankar", "artista": "Ananda Shankar" }
+{"id":179, "nome": "Bitches Brew", "artista": "Miles Davis" }
+{"id":180, "nome": "Black Sabbath", "artista": "Black Sabbath" }
+{"id":181, "nome": "Bridge Over Troubled Water", "artista": "Simon & Garfunkel" }
+{"id":182, "nome": "Bryter Later", "artista": "Nick Drake" }
+{"id":183, "nome": "Close To You", "artista": "The Carpenters" }
+{"id":184, "nome": "Deep Purple in Rock", "artista": "Deep Purple" }
+{"id":185, "nome": "Déjà Vu", "artista": "Crosby, Stills, Nash & Young" }
+{"id":186, "nome": "Fun House", "artista": "Iggy Pop & The Stooges" }
+{"id":187, "nome": "Gasoline Alley", "artista": "Rod Stewart" }
+{"id":188, "nome": "John Barleycorn Must Die", "artista": "Traffic" }
+{"id":189, "nome": "John Lennon/Plastic Ono Band", "artista": "John Lennon" }
+{"id":190, "nome": "Layla And Other Assorted Lovesongs", "artista": "Derek And The Dominos" }
+{"id":191, "nome": "Led Zeppelin III", "artista": "Led Zeppelin" }
+{"id":192, "nome": "Live at Leeds", "artista": "The Who" }
+{"id":193, "nome": "Live/Dead", "artista": "The Grateful Dead" }
+{"id":194, "nome": "McCartney", "artista": "Paul McCartney" }
+{"id":195, "nome": "Moondance", "artista": "Van Morrison" }
+{"id":196, "nome": "Morrison Hotel", "artista": "The Doors" }
+{"id":197, "nome": "Paranoid", "artista": "Black Sabbath" }
+{"id":198, "nome": "Stephen Stills", "artista": "Stephen Stills" }
+{"id":199, "nome": "Sweet Baby James", "artista": "James Taylor" }
+{"id":200, "nome": "Tea for the Tillerman", "artista": "Yusuf / Cat Stevens" }
+{"id":201, "nome": "The Madcap Laughs", "artista": "Syd Barrett" }
+{"id":202, "nome": "Third", "artista": "Soft Machine" }
+{"id":203, "nome": "Twelve Dreams of Doctor Sardonicus", "artista": "Spirit" }
+{"id":204, "nome": "A Nod's As Good As A Wink... To A Blind Horse", "artista": "Faces" }
+{"id":205, "nome": "American Pie", "artista": "Don McLean" }
+{"id":206, "nome": "Aqualung", "artista": "Jethro Tull" }
+{"id":207, "nome": "Blue", "artista": "Joni Mitchell" }
+{"id":208, "nome": "Coat Of Many Colors", "artista": "Dolly Parton" }
+{"id":209, "nome": "Cosmo's Factory", "artista": "Creedence Clearwater Revival" }
+{"id":210, "nome": "Electric Warrior", "artista": "T Rex" }
+{"id":211, "nome": "Every Picture Tells A Story", "artista": "Rod Stewart" }
+{"id":212, "nome": "Fragile", "artista": "Yes" }
+{"id":213, "nome": "Histoire de Melody Nelson", "artista": "Serge Gainsbourg" }
+{"id":214, "nome": "If Only I Could Remember My Name", "artista": "David Crosby" }
+{"id":215, "nome": "Imagine", "artista": "John Lennon" }
+{"id":216, "nome": "LA Woman", "artista": "The Doors" }
+{"id":217, "nome": "IV", "artista": "Led Zeppelin" }
+{"id":218, "nome": "Live With Ginger Baker", "artista": "Fela Kuti" }
+{"id":219, "nome": "Madman Across The Water", "artista": "Elton John" }
+{"id":220, "nome": "Maggot Brain", "artista": "Funkadelic" }
+{"id":221, "nome": "Nilsson Schmilsson", "artista": "Harry Nilsson" }
+{"id":222, "nome": "Pearl", "artista": "Janis Joplin" }
+{"id":223, "nome": "Pictures at an Exhibition", "artista": "Emerson, Lake & Palmer" }
+{"id":224, "nome": "Shaft", "artista": "Isaac Hayes" }
+{"id":225, "nome": "Songs of Love and Hate", "artista": "Leonard Cohen" }
+{"id":226, "nome": "Sticky Fingers", "artista": "The Rolling Stones" }
+{"id":227, "nome": "Surf's Up", "artista": "The Beach Boys" }
+{"id":228, "nome": "Tago Mago", "artista": "Can" }
+{"id":229, "nome": "Tapestry", "artista": "Carole King" }
+{"id":230, "nome": "Tarkus", "artista": "Emerson, Lake & Palmer" }
+{"id":231, "nome": "Teenage Head", "artista": "The Flamin' Groovies" }
+{"id":232, "nome": "The Allman Brothers at Fillmore East", "artista": "The Allman Brothers" }
+{"id":233, "nome": "The Yes Album", "artista": "Yes" }
+{"id":234, "nome": "There's a Riot Goin' On", "artista": "Sly and and The Family Stone" }
+{"id":235, "nome": "Trafalgar", "artista": "The Bee Gees" }
+{"id":236, "nome": "What's Goin' On", "artista": "Marvin Gaye" }
+{"id":237, "nome": "Who's Next", "artista": "The Who" }
+{"id":238, "nome": "Hunky Dory", "artista": "David Bowie" }
+{"id":239, "nome": "All Directions", "artista": "The Temptations" }
+{"id":240, "nome": "American Gothic", "artista": "David Ackles" }
+{"id":241, "nome": "Can't Buy a Thrill", "artista": "Steely Dan" }
+{"id":242, "nome": "Close to The Edge", "artista": "Yes" }
+{"id":243, "nome": "Clube Da Esquina", "artista": "Milton Nascimento e Lô Borges" }
+{"id":244, "nome": "Exile on Main Street", "artista": "The Rolling Stones" }
+{"id":245, "nome": "Harvest", "artista": "Neil Young" }
+{"id":246, "nome": "Home is Where the Music Is", "artista": "Hugh Masekela" }
+{"id":247, "nome": "John Prine", "artista": "John Prine" }
+{"id":248, "nome": "Let's Stay Together", "artista": "Al Green" }
+{"id":249, "nome": "Machine Head", "artista": "Deep Purple" }
+{"id":250, "nome": "Marcus Garvey", "artista": "Burning Spear" }
+{"id":251, "nome": "No.1 Record", "artista": "Big Star" }
+{"id":252, "nome": "Paul Simon", "artista": "Paul Simon" }
+{"id":253, "nome": "Pink Moon", "artista": "Nick Drake" }
+{"id":254, "nome": "Roxy Music", "artista": "Roxy Music" }
+{"id":255, "nome": "Sail Away", "artista": "Randy Newman" }
+{"id":256, "nome": "Greetings from LA", "artista": "Tim Buckley" }
+{"id":257, "nome": "School's Out", "artista": "Alice Cooper" }
+{"id":258, "nome": "Slayed?", "artista": "Slade" }
+{"id":259, "nome": "Something/Anything?", "artista": "Todd Rundgren" }
+{"id":260, "nome": "Superfly", "artista": "Curtis Mayfield" }
+{"id":261, "nome": "Talking Book", "artista": "Stevie Wonder" }
+{"id":262, "nome": "The Eagles", "artista": "The Eagles" }
+{"id":263, "nome": "The Slider", "artista": "T Rex" }
+{"id":264, "nome": "The World Is A Ghetto", "artista": "War" }
+{"id":265, "nome": "Transformer", "artista": "Lou Reed" }
+{"id":266, "nome": "Volume 4", "artista": "Black Sabbath" }
+{"id":267, "nome": "White Light", "artista": "Gene Clark" }
+{"id":268, "nome": "Will The Circle Be Unbroken", "artista": "Nitty Gritty Dirt Band" }
+{"id":269, "nome": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", "artista": "David Bowie" }
+{"id":270, "nome": "3+3", "artista": "The Isley Bros" }
+{"id":271, "nome": "A Wizard, A True Star", "artista": "Todd Rundgren" }
+{"id":272, "nome": "Aladdin Sane", "artista": "David Bowie" }
+{"id":273, "nome": "Band On The Run", "artista": "Paul McCartney & Wings" }
+{"id":274, "nome": "Berlin", "artista": "Lou Reed" }
+{"id":275, "nome": "Billion Dollar Babies", "artista": "Alice Cooper" }
+{"id":276, "nome": "Bongo Rock", "artista": "Michael Viner's Incredible Bongo Band" }
+{"id":277, "nome": "Catch A Fire", "artista": "Bob Marley & The Wailers" }
+{"id":278, "nome": "Countdown to Ecstasy", "artista": "Steely Dan" }
+{"id":279, "nome": "Dark Side of the Moon", "artista": "Pink Floyd" }
+{"id":280, "nome": "Faust IV", "artista": "Faust" }
+{"id":281, "nome": "For Your Pleasure", "artista": "Roxy Music" }
+{"id":282, "nome": "Future Days", "artista": "Can" }
+{"id":283, "nome": "Goodbye Yellow Brick Road", "artista": "Elton John" }
+{"id":284, "nome": "Grevious Angel", "artista": "Gram Parsons" }
+{"id":285, "nome": "Honky Tonk Heroes", "artista": "Waylon Jennings" }
+{"id":286, "nome": "Larks Tongues In Aspic", "artista": "King Crimson" }
+{"id":287, "nome": "Let's Get It On", "artista": "Marvin Gaye" }
+{"id":288, "nome": "Made In Japan", "artista": "Deep Purple" }
+{"id":289, "nome": "Mott", "artista": "Mott The Hoople" }
+{"id":290, "nome": "Next", "artista": "The Sensational Alex Harvey Band" }
+{"id":291, "nome": "Innervisions", "artista": "Stevie Wonder" }
+{"id":292, "nome": "Paris 1919", "artista": "John Cale" }
+{"id":293, "nome": "Pronounced Leh-nerd Skin-nerd", "artista": "Lynyrd Skynyrd" }
+{"id":294, "nome": "Raw Power", "artista": "Iggy Pop & The Stooges" }
+{"id":295, "nome": "Selling England by the Pound", "artista": "Genesis" }
+{"id":296, "nome": "Solid Air", "artista": "John Martyn" }
+{"id":297, "nome": "Space Ritual", "artista": "Hawkwind" }
+{"id":298, "nome": "Stephen Stills", "artista": "Manassas" }
+{"id":299, "nome": "The New York Dolls", "artista": "The New York Dolls" }
+{"id":300, "nome": "Tres Hombres", "artista": "ZZ Top" }
+{"id":301, "nome": "Tubular Bells", "artista": "Mike Oldfield" }
+{"id":302, "nome": "461 Ocean Boulevard", "artista": "Eric Clapton" }
+{"id":303, "nome": "Autobahn", "artista": "Kraftwerk" }
+{"id":304, "nome": "Bad Company", "artista": "Bad Company" }
+{"id":305, "nome": "The Lamb Lies Down On Broadway", "artista": "Genesis" }
+{"id":306, "nome": "Country Life", "artista": "Roxy Music" }
+{"id":307, "nome": "Court And Spark", "artista": "Joni Mitchell" }
+{"id":308, "nome": "Crime Of The Century", "artista": "Supertramp" }
+{"id":309, "nome": "Fullfillingness' First Finale", "artista": "Stevie Wonder" }
+{"id":310, "nome": "Good Old Boys", "artista": "Randy Newman" }
+{"id":311, "nome": "Headhunters", "artista": "Herbie Hancock" }
+{"id":312, "nome": "Here Come the Warm Jets", "artista": "Brian Eno" }
+{"id":313, "nome": "I Want To See The Bright Lights Tonight", "artista": "Richard & Linda Thompson" }
+{"id":314, "nome": "It's Too Late To Stop Now", "artista": "Van Morrison" }
+{"id":315, "nome": "Kimono My House", "artista": "Sparks" }
+{"id":316, "nome": "No Other", "artista": "Gene Clark" }
+{"id":317, "nome": "On the Beach", "artista": "Neil Young" }
+{"id":318, "nome": "Phaedra", "artista": "Tangerine Dream" }
+{"id":319, "nome": "Pretzel Logic", "artista": "Steely Dan" }
+{"id":320, "nome": "Queen II", "artista": "Queen" }
+{"id":321, "nome": "Rock Bottom", "artista": "Robert Wyatt" }
+{"id":322, "nome": "Sheer Heart Attack", "artista": "Queen" }
+{"id":323, "nome": "Sheet Music", "artista": "10cc" }
+{"id":324, "nome": "The Grand Tour", "artista": "George Jones" }
+{"id":325, "nome": "Winter in America", "artista": "Gill Scott-Heron" }
+{"id":326, "nome": "Blood On The Tracks", "artista": "Bob Dylan" }
+{"id":327, "nome": "A Night At The Opera", "artista": "Queen" }
+{"id":328, "nome": "Another Green World", "artista": "Brian Eno" }
+{"id":329, "nome": "Born to be With You", "artista": "Dion" }
+{"id":330, "nome": "Born to Run", "artista": "Bruce Springsteen" }
+{"id":331, "nome": "Frampton Comes Alive", "artista": "Peter Frampton" }
+{"id":332, "nome": "Go Girl Crazy", "artista": "The Dictators" }
+{"id":333, "nome": "Horses", "artista": "Patti Smith" }
+{"id":334, "nome": "Inspiration Information", "artista": "Shuggie Otis" }
+{"id":335, "nome": "Natty Dread", "artista": "Bob Marley & The Wailers" }
+{"id":336, "nome": "Neu! 75", "artista": "Neu!" }
+{"id":337, "nome": "Nighthawks at the Diner", "artista": "Tom Waits" }
+{"id":338, "nome": "Physical Graffiti", "artista": "Led Zeppelin" }
+{"id":339, "nome": "Pieces Of The Sky", "artista": "Emmylou Harris" }
+{"id":340, "nome": "Redheaded Stranger", "artista": "Willie Nelson" }
+{"id":341, "nome": "Shalimar / College Girl", "artista": "R.D.Burman / Bappi Lahiri" }
+{"id":342, "nome": "That's The Way Of The World", "artista": "Earth, Wind & Fire" }
+{"id":343, "nome": "The Hissing of Summer Lawns", "artista": "Joni Mitchell" }
+{"id":344, "nome": "The Köln Concert", "artista": "Keith Jarrett" }
+{"id":345, "nome": "There's No Place Like America Today", "artista": "Curtis Mayfield" }
+{"id":346, "nome": "Tonight's the Night", "artista": "Neil Young" }
+{"id":347, "nome": "Toys in the Attic", "artista": "Aerosmith" }
+{"id":348, "nome": "Wish You Were Here", "artista": "Pink Floyd" }
+{"id":349, "nome": "Young Americans", "artista": "David Bowie" }
+{"id":350, "nome": "2112", "artista": "Rush" }
+{"id":351, "nome": "Africa/Brasil", "artista": "Jorge Ben" }
+{"id":352, "nome": "Arrival", "artista": "Abba" }
+{"id":353, "nome": "Boston", "artista": "Boston" }
+{"id":354, "nome": "Destroyer", "artista": "Kiss" }
+{"id":355, "nome": "Hejeira", "artista": "Joni Mitchell" }
+{"id":356, "nome": "Hotel California", "artista": "The Eagles" }
+{"id":357, "nome": "Joan Armatrading", "artista": "Joan Armatrading" }
+{"id":358, "nome": "Legalize It", "artista": "Peter Tosh" }
+{"id":359, "nome": "Mothership Connection", "artista": "Parliament" }
+{"id":360, "nome": "Rocks", "artista": "Aerosmith" }
+{"id":361, "nome": "Songs in the Key of Life", "artista": "Stevie Wonder" }
+{"id":362, "nome": "Station to Station", "artista": "David Bowie" }
+{"id":363, "nome": "The Ramones", "artista": "The Ramones" }
+{"id":364, "nome": "Aja", "artista": "Steely Dan" }
+{"id":365, "nome": "Before & After Science", "artista": "Brian Eno" }
+{"id":366, "nome": "C'est Chic", "artista": "Chic Manish" }
+{"id":367, "nome": "Exodus", "artista": "Bob Marley & The Wailers" }
+{"id":368, "nome": "Heavy Weather", "artista": "Weather Report" }
+{"id":369, "nome": "Heroes", "artista": "David Bowie" }
+{"id":370, "nome": "I", "artista": "Peter Gabriel" }
+{"id":371, "nome": "Low", "artista": "David Bowie" }
+{"id":372, "nome": "Lust for Life", "artista": "Iggy Pop" }
+{"id":373, "nome": "Music From The Penguin Cafe Orchestra", "artista": "The Penguin Cafe Orchestra" }
+{"id":374, "nome": "My Aim Is True", "artista": "Elvis Costello" }
+{"id":375, "nome": "Never Mind The Bollocks…", "artista": "The Sex Pistols" }
+{"id":376, "nome": "New Boots & Panties", "artista": "Ian Dury & the Blockheads" }
+{"id":377, "nome": "One World", "artista": "John Martyn" }
+{"id":378, "nome": "Out Of The Blue", "artista": "Electric Light Orchestra" }
+{"id":379, "nome": "Oxygene", "artista": "Jean Michel-Jarre" }
+{"id":380, "nome": "Pink Flag", "artista": "Wire" }
+{"id":381, "nome": "Rattus Norvegicus", "artista": "The Stranglers" }
+{"id":382, "nome": "Pacific Ocean Blue", "artista": "Dennis Wilson" }
+{"id":383, "nome": "Rumours", "artista": "Fleetwood Mac" }
+{"id":384, "nome": "Suicide", "artista": "Suicide" }
+{"id":385, "nome": "Talking Heads '77", "artista": "Talking Heads" }
+{"id":386, "nome": "The Clash", "artista": "The Clash" }
+{"id":387, "nome": "The Idiot", "artista": "Iggy Pop" }
+{"id":388, "nome": "The Modern Dance", "artista": "Pere Ubu" }
+{"id":389, "nome": "The Modern Lovers", "artista": "Jonathan Richman And The Modern Lovers" }
+{"id":390, "nome": "The Stranger", "artista": "Billy Joel" }
+{"id":391, "nome": "Tom Petty & the Heartbreakers", "artista": "Tom Petty & the Heartbreakers" }
+{"id":392, "nome": "Trans-Europe Express", "artista": "Kraftwerk" }
+{"id":393, "nome": "Zombie", "artista": "Fela Kuti" }
+{"id":394, "nome": "All Mod Cons", "artista": "The Jam" }
+{"id":395, "nome": "Ambient no.1: Music for Airports", "artista": "Brian Eno" }
+{"id":396, "nome": "Another Music In a Different Kitchen", "artista": "Buzzcocks" }
+{"id":397, "nome": "At Budokan", "artista": "Cheap Trick" }
+{"id":398, "nome": "Bat Out of Hell", "artista": "Meat Loaf" }
+{"id":399, "nome": "Darkness on the Edge of Town", "artista": "Bruce Springsteen" }
+{"id":400, "nome": "Dire Straits", "artista": "Dire Straits" }
+{"id":401, "nome": "DOA", "artista": "Throbbing Gristle" }
+{"id":402, "nome": "Dub Housing", "artista": "Pere Ubu" }
+{"id":403, "nome": "Duck Stab/Buster & Glen", "artista": "The Residents" }
+{"id":404, "nome": "Eternally Yours", "artista": "The Saints" }
+{"id":405, "nome": "Germ-Free Adolescents", "artista": "X-Ray Spex" }
+{"id":406, "nome": "Hard Again", "artista": "Muddy Waters" }
+{"id":407, "nome": "Here, My Dear", "artista": "Marvin Gaye" }
+{"id":408, "nome": "Honky Tonk Masquarade", "artista": "Joe Ely" }
+{"id":409, "nome": "Live And Dangerous", "artista": "Thin Lizzy" }
+{"id":410, "nome": "Marquee Moon", "artista": "Television" }
+{"id":411, "nome": "More Songs About Buildings and Food", "artista": "Talking Heads" }
+{"id":412, "nome": "One Nation Under A Groove", "artista": "Funkadelic" }
+{"id":413, "nome": "Parallel Lines", "artista": "Blondie" }
+{"id":414, "nome": "Public Image", "artista": "Public Image" }
+{"id":415, "nome": "Q: Are We Not Men? A: We Are Devo!", "artista": "Devo" }
+{"id":416, "nome": "Real Life", "artista": "Magazine" }
+{"id":417, "nome": "Siembra", "artista": "Ruben Blades & Willie Colón" }
+{"id":418, "nome": "Stardust", "artista": "Willie Nelson" }
+{"id":419, "nome": "The Cars", "artista": "The Cars" }
+{"id":420, "nome": "The Man Machine", "artista": "Kraftwerk" }
+{"id":421, "nome": "The Only Ones", "artista": "The Only Ones" }
+{"id":422, "nome": "The Scream", "artista": "Siouxsie And The Banshees" }
+{"id":423, "nome": "Third/Sister Lovers", "artista": "Big Star" }
+{"id":424, "nome": "This Year's Model", "artista": "Elvis Costello" }
+{"id":425, "nome": "Crossing The Red Sea", "artista": "The Adverts" }
+{"id":426, "nome": "Van Halen 1", "artista": "Van Halen" }
+{"id":427, "nome": "Vento De Maio", "artista": "Elis Regina" }
+{"id":428, "nome": "Armed Forces", "artista": "Elvis Costello" }
+{"id":429, "nome": "Broken English", "artista": "Marianne Faithfull" }
+{"id":430, "nome": "Cut", "artista": "The Slits" }
+{"id":431, "nome": "Entertainment!", "artista": "Gang Of Four" }
+{"id":432, "nome": "Fear of Music", "artista": "Talking Heads" }
+{"id":433, "nome": "GI", "artista": "Germs" }
+{"id":434, "nome": "Highway to Hell", "artista": "AC/DC" }
+{"id":435, "nome": "Live at the Witch Trials", "artista": "The Fall" }
+{"id":436, "nome": "London Calling", "artista": "The Clash" }
+{"id":437, "nome": "Machine Gun Etiquette", "artista": "The Damned" }
+{"id":438, "nome": "Metal Box/Second Edition", "artista": "Public Image" }
+{"id":439, "nome": "Movies", "artista": "Holger Czukay" }
+{"id":440, "nome": "Off The Wall", "artista": "Michael Jackson" }
+{"id":441, "nome": "Pretenders", "artista": "Pretenders" }
+{"id":442, "nome": "Quiet Life", "artista": "Japan" }
+{"id":443, "nome": "Regatta De Blanc", "artista": "The Police" }
+{"id":444, "nome": "Risqué", "artista": "Chic" }
+{"id":445, "nome": "Rust Never Sleeps", "artista": "Neil Young" }
+{"id":446, "nome": "Specials", "artista": "The Specials" }
+{"id":447, "nome": "Street Life", "artista": "The Crusaders" }
+{"id":448, "nome": "The B-52's", "artista": "The B-52's" }
+{"id":449, "nome": "The Pleasure Principle", "artista": "Gary Numan" }
+{"id":450, "nome": "The Undertones", "artista": "The Undertones" }
+{"id":451, "nome": "The Wall", "artista": "Pink Floyd" }
+{"id":452, "nome": "Tusk", "artista": "Fleetwood Mac" }
+{"id":453, "nome": "Unknown Pleasures", "artista": "Joy Division" }
+{"id":454, "nome": "We Are Family", "artista": "Sister Sledge" }
+{"id":455, "nome": "Ace of Spades", "artista": "Motörhead" }
+{"id":456, "nome": "Arc Of A Diver", "artista": "Steve Winwood" }
+{"id":457, "nome": "Back in Black", "artista": "AC/DC" }
+{"id":458, "nome": "British Steel", "artista": "Judas Priest" }
+{"id":459, "nome": "Closer", "artista": "Joy Division" }
+{"id":460, "nome": "Crocodiles", "artista": "Echo & The Bunnymen" }
+{"id":461, "nome": "Fresh Fruit for Rotting Vegetables", "artista": "Dead Kennedys" }
+{"id":462, "nome": "Group Sex", "artista": "Circle Jerks" }
+{"id":463, "nome": "Heartattack and Vine", "artista": "Tom Waits" }
+{"id":464, "nome": "Hypnotised", "artista": "The Undertones" }
+{"id":465, "nome": "III", "artista": "Peter Gabriel" }
+{"id":466, "nome": "Iron Maiden", "artista": "Iron Maiden" }
+{"id":467, "nome": "Kilimanjaro", "artista": "Teardrop Explodes" }
+{"id":468, "nome": "Killing Joke", "artista": "Killing Joke" }
+{"id":469, "nome": "Kings Of The Wild Frontier", "artista": "Adam & The Ants" }
+{"id":470, "nome": "More Specials", "artista": "The Specials" }
+{"id":471, "nome": "Remain in Light", "artista": "Talking Heads" }
+{"id":472, "nome": "Searching for the Young Soul Rebels", "artista": "Dexys Midnight Runners" }
+{"id":473, "nome": "Seventeen Seconds", "artista": "The Cure" }
+{"id":474, "nome": "Signing Off", "artista": "UB40" }
+{"id":475, "nome": "Songs The Lord Taught Us", "artista": "The Cramps" }
+{"id":476, "nome": "Sound Affects", "artista": "The Jam" }
+{"id":477, "nome": "Underwater Moonlight", "artista": "The Soft Boys" }
+{"id":478, "nome": "Beauty And The Beat", "artista": "Go-Go's" }
+{"id":479, "nome": "Damaged", "artista": "Black Flag" }
+{"id":480, "nome": "Dare", "artista": "Human League" }
+{"id":481, "nome": "Fire Of Love", "artista": "The Gun Club" }
+{"id":482, "nome": "Juju", "artista": "Siouxsie And The Banshees" }
+{"id":483, "nome": "Kollaps", "artista": "Einsturzende" }
+{"id":484, "nome": "Mask", "artista": "Bauhaus" }
+{"id":485, "nome": "Moving Pictures", "artista": "Rush" }
+{"id":486, "nome": "My Life In The Bush Of Ghosts", "artista": "Brian Eno" }
+{"id":487, "nome": "No Sleep 'til Hammersmith", "artista": "Motörhead" }
+{"id":488, "nome": "Non-Stop Erotic Cabaret", "artista": "Soft Cell" }
+{"id":489, "nome": "Penthouse and Pavement", "artista": "Heaven 17" }
+{"id":490, "nome": "Talk Talk Talk", "artista": "Psychedelic Furs" }
+{"id":491, "nome": "The Poet", "artista": "Bobbie Womack" }
+{"id":492, "nome": "The Tom Tom Club", "artista": "The Tom Tom Club" }
+{"id":493, "nome": "The Visitors", "artista": "Abba" }
+{"id":494, "nome": "Wild Gift", "artista": "X" }
+{"id":495, "nome": "1999", "artista": "Prince" }
+{"id":496, "nome": "Black Metal", "artista": "Venom" }
+{"id":497, "nome": "Imperial Bedroom", "artista": "Elvis Costello" }
+{"id":498, "nome": "Junkyard", "artista": "The Birthday Party" }
+{"id":499, "nome": "Nebraska", "artista": "Bruce Springsteen" }
+{"id":500, "nome": "New Gold Dream (81-82-83-84)", "artista": "Simple Minds" }
+{"id":501, "nome": "Number Of The Beast", "artista": "Iron Maiden" }
+{"id":502, "nome": "Pelican West", "artista": "Haircut 100" }
+{"id":503, "nome": "Pornography", "artista": "The Cure" }
+{"id":504, "nome": "Rip It Up", "artista": "Orange Juice" }
+{"id":505, "nome": "Rise & Fall", "artista": "Madness" }
+{"id":506, "nome": "Sulk", "artista": "The Associates" }
+{"id":507, "nome": "The Dreaming", "artista": "Kate Bush" }
+{"id":508, "nome": "The Lexicon of Love", "artista": "ABC" }
+{"id":509, "nome": "The Message", "artista": "Grand Master Flash & the Furious Five" }
+{"id":510, "nome": "The Nightfly", "artista": "Donald Fagen" }
+{"id":511, "nome": "Thriller", "artista": "Michael Jackson" }
+{"id":512, "nome": "Too Rye-Ay", "artista": "Dexy's Midnight Runners" }
+{"id":513, "nome": "Violent Femmes", "artista": "Violent Femmes" }
+{"id":514, "nome": "Architecture & Morality", "artista": "OMD" }
+{"id":515, "nome": "Back to Mystery City", "artista": "Hanoi Rocks" }
+{"id":516, "nome": "Colour By Numbers", "artista": "Culture Club" }
+{"id":517, "nome": "Duck Rock", "artista": "Malcolm McLaren" }
+{"id":518, "nome": "Eliminator", "artista": "ZZ Top" }
+{"id":519, "nome": "Hearts and Bones", "artista": "Paul Simon" }
+{"id":520, "nome": "Meat Puppets II", "artista": "Meat Puppets" }
+{"id":521, "nome": "Murmur", "artista": "R.E.M." }
+{"id":522, "nome": "Out Of Step", "artista": "Minor Threat" }
+{"id":523, "nome": "Porcupine", "artista": "Echo & The Bunnymen" }
+{"id":524, "nome": "Pyromania", "artista": "Def Leppard" }
+{"id":525, "nome": "Rio", "artista": "Duran Duran" }
+{"id":526, "nome": "Soul Mining", "artista": "The The" }
+{"id":527, "nome": "Sweet Dreams", "artista": "Eurythmics" }
+{"id":528, "nome": "Swordfishtrombones", "artista": "Tom Waits" }
+{"id":529, "nome": "Synchronicity", "artista": "The Police" }
+{"id":530, "nome": "War", "artista": "U2" }
+{"id":531, "nome": "1984", "artista": "Van Halen" }
+{"id":532, "nome": "A Walk Across The Rooftops", "artista": "The Blue Nile" }
+{"id":533, "nome": "Born in the USA", "artista": "Bruce Springsteen" }
+{"id":534, "nome": "Café Bleu", "artista": "Style Council" }
+{"id":535, "nome": "Diamond Life", "artista": "Sade" }
+{"id":536, "nome": "Double Nickels On The Dime", "artista": "Minutemen" }
+{"id":537, "nome": "Immigrés", "artista": "Youssou N'Dour" }
+{"id":538, "nome": "Let It Be", "artista": "The Replacements" }
+{"id":539, "nome": "Ocean Rain", "artista": "Echo & The Bunnymen" }
+{"id":540, "nome": "Private Dancer", "artista": "Tina Turner" }
+{"id":541, "nome": "Purple Rain", "artista": "Prince and The Revolution" }
+{"id":542, "nome": "Rattlesnakes", "artista": "Lloyd Cole And The Commotions" }
+{"id":543, "nome": "Run-DMC", "artista": "Run-DMC" }
+{"id":544, "nome": "She's So Unusual", "artista": "Cyndi Lauper" }
+{"id":545, "nome": "Treasure", "artista": "Cocteau Twins" }
+{"id":546, "nome": "Welcome to the Pleasuredome", "artista": "Frankie Goes To Hollywood" }
+{"id":547, "nome": "Brothers In Arms", "artista": "Dire Straits" }
+{"id":548, "nome": "Cupid and Psyche", "artista": "Scritti Politti" }
+{"id":549, "nome": "Don't Stand Me Down", "artista": "Dexys Midnight Runners" }
+{"id":550, "nome": "Fear and Whiskey", "artista": "Mekons" }
+{"id":551, "nome": "Hounds of Love", "artista": "Kate Bush" }
+{"id":552, "nome": "Hunting High And Low", "artista": "A-Ha" }
+{"id":553, "nome": "Low Life", "artista": "New Order" }
+{"id":554, "nome": "Meat is Murder", "artista": "The Smiths" }
+{"id":555, "nome": "Picture Book", "artista": "Simply Red" }
+{"id":556, "nome": "Psychocandy", "artista": "The Jesus & Mary Chain" }
+{"id":557, "nome": "Rain Dogs", "artista": "Tom Waits" }
+{"id":558, "nome": "Rum, Sodomy and the Lash", "artista": "The Pogues" }
+{"id":559, "nome": "Songs from the Big Chair", "artista": "Tears for Fears" }
+{"id":560, "nome": "Steve McQueen", "artista": "Prefab Sprout" }
+{"id":561, "nome": "Suzanne Vega", "artista": "Suzanne Vega" }
+{"id":562, "nome": "This Nation's Saving Grace", "artista": "The Fall" }
+{"id":563, "nome": "Water From An Ancient Well", "artista": "Abdullah Ibrahim" }
+{"id":564, "nome": "Atomizer", "artista": "Big Black" }
+{"id":565, "nome": "Blood and Chocolate", "artista": "Elvis Costello" }
+{"id":566, "nome": "EVOL", "artista": "Sonic Youth" }
+{"id":567, "nome": "Graceland", "artista": "Paul Simon" }
+{"id":568, "nome": "Guitar Town", "artista": "Steve Earle" }
+{"id":569, "nome": "I Against I", "artista": "Bad Brains" }
+{"id":570, "nome": "Infected", "artista": "The The" }
+{"id":571, "nome": "Last of the True Believers", "artista": "Nanci Griffith" }
+{"id":572, "nome": "Licensed to Ill", "artista": "Beastie Boys" }
+{"id":573, "nome": "Master of Puppets", "artista": "Metallica" }
+{"id":574, "nome": "Peace Sells... But Who's Buying?", "artista": "Megadeth" }
+{"id":575, "nome": "Planet Rock: The Album", "artista": "Afrika Bambaataa" }
+{"id":576, "nome": "Raising Hell", "artista": "Run-DMC" }
+{"id":577, "nome": "Rapture", "artista": "Anita Baker" }
+{"id":578, "nome": "Reign in Blood", "artista": "Slayer" }
+{"id":579, "nome": "Skylarking", "artista": "XTC" }
+{"id":580, "nome": "Slippery When Wet", "artista": "Bon Jovi" }
+{"id":581, "nome": "So", "artista": "Peter Gabriel" }
+{"id":582, "nome": "Talking With The Taxman About Poetry", "artista": "Billy Bragg" }
+{"id":583, "nome": "The Queen is Dead", "artista": "The Smiths" }
+{"id":584, "nome": "Throwing Muses", "artista": "Throwing Muses" }
+{"id":585, "nome": "Actually", "artista": "Pet Shop Boys" }
+{"id":586, "nome": "Among The Living", "artista": "Anthrax" }
+{"id":587, "nome": "Appetite for Destruction", "artista": "Guns N' Roses" }
+{"id":588, "nome": "Astor Piazzolla", "artista": "The New Tango (with Gary Burton)" }
+{"id":589, "nome": "Bad", "artista": "Michael Jackson" }
+{"id":590, "nome": "Calenture", "artista": "The Triffids" }
+{"id":591, "nome": "Colour of Spring", "artista": "Talk Talk" }
+{"id":592, "nome": "Darklands", "artista": "The Jesus & Mary Chain" }
+{"id":593, "nome": "Document (R.E.M. No. 5)", "artista": "R.E.M." }
+{"id":594, "nome": "Electric", "artista": "The Cult" }
+{"id":595, "nome": "Faith", "artista": "George Michael" }
+{"id":596, "nome": "Floodland", "artista": "Sisters of Mercy" }
+{"id":597, "nome": "Hysteria", "artista": "Def Leppard" }
+{"id":598, "nome": "Introducing The Hardline", "artista": "Terence Trent D'Arby" }
+{"id":599, "nome": "Locust Abortion Technician", "artista": "Butthole Surfers" }
+{"id":600, "nome": "Music For The Masses", "artista": "Depeche Mode" }
+{"id":601, "nome": "Opus Dei", "artista": "Laibach" }
+{"id":602, "nome": "Scum", "artista": "Napalm Death" }
+{"id":603, "nome": "Shaka Zulu", "artista": "Ladysmith Black Mambazo" }
+{"id":604, "nome": "Sign o' the Times", "artista": "Prince" }
+{"id":605, "nome": "Sister", "artista": "Sonic Youth" }
+{"id":606, "nome": "Spy Vs Spy", "artista": "John Zorn" }
+{"id":607, "nome": "Strangeways Here We Come", "artista": "The Smiths" }
+{"id":608, "nome": "The Joshua Tree", "artista": "U2" }
+{"id":609, "nome": "Trio", "artista": "Emmylou Harris, Lisa Rondstadt, Dolly Parton" }
+{"id":610, "nome": "Warehouse: Songs & Stories", "artista": "Hüsker Dü" }
+{"id":611, "nome": "You're Living All Over Me", "artista": "Dinosaur Jr" }
+{"id":612, "nome": "16 Lover's Lane", "artista": "Go-Betweens" }
+{"id":613, "nome": "Buenos Noches from a Lonely Room", "artista": "Dwight Yoakam" }
+{"id":614, "nome": "Bug", "artista": "Dinosaur Jr" }
+{"id":615, "nome": "Bummed", "artista": "Happy Mondays" }
+{"id":616, "nome": "California", "artista": "American Music Club" }
+{"id":617, "nome": "Daydream Nation", "artista": "Sonic Youth" }
+{"id":618, "nome": "Fisherman's Blues", "artista": "The Waterboys" }
+{"id":619, "nome": "I'm Your Man", "artista": "Leonard Cohen" }
+{"id":620, "nome": "Idlewild", "artista": "Everything But the Girl" }
+{"id":621, "nome": "If I Should Fall from Grace with God", "artista": "The Pogues" }
+{"id":622, "nome": "Isn't Anything", "artista": "My Bloody Valentine" }
+{"id":623, "nome": "It Takes a Nation of Millions to Hold Us Back", "artista": "Public Enemy" }
+{"id":624, "nome": "Life's Too Good", "artista": "The Sugarcubes" }
+{"id":625, "nome": "Nothing's Shocking", "artista": "Jane's Addiction" }
+{"id":626, "nome": "Shadowland", "artista": "k.d. lang" }
+{"id":627, "nome": "Straight Outta Compton", "artista": "N.W.A" }
+{"id":628, "nome": "Superfuzz Bigmuff", "artista": "Mudhoney" }
+{"id":629, "nome": "Surfer Rosa", "artista": "The Pixies" }
+{"id":630, "nome": "Tank Battles", "artista": "Dagmar Krause" }
+{"id":631, "nome": "The Trinity Sessions", "artista": "Cowboy Junkies" }
+{"id":632, "nome": "Tracy Chapman", "artista": "Tracy Chapman" }
+{"id":633, "nome": "Truth And Soul", "artista": "Fishbone" }
+{"id":634, "nome": "Viva Hate", "artista": "Morrissey" }
+{"id":635, "nome": "Vivid", "artista": "Living Colour" }
+{"id":636, "nome": "…And Justice For All", "artista": "Metallica" }
+{"id":637, "nome": "809:30:00", "artista": "808 State" }
+{"id":638, "nome": "All Hail the Queen", "artista": "Queen Latifah" }
+{"id":639, "nome": "Club Classics Vol. One", "artista": "Soul II Soul" }
+{"id":640, "nome": "Djam Leelii: The Adventurers", "artista": "Baaba Maal & Mansour Seck" }
+{"id":641, "nome": "Done By the Forces of Nature", "artista": "Jungle Brothers" }
+{"id":642, "nome": "Doolittle", "artista": "The Pixies" }
+{"id":643, "nome": "Fromohio", "artista": "Firehose" }
+{"id":644, "nome": "Green", "artista": "R.E.M." }
+{"id":645, "nome": "L'eau Rouge", "artista": "The Young Gods" }
+{"id":646, "nome": "Let Love Rule", "artista": "Lenny Kravitz" }
+{"id":647, "nome": "Like a Prayer", "artista": "Madonna" }
+{"id":648, "nome": "Moss Side Story", "artista": "Barry Adamson" }
+{"id":649, "nome": "Nick of Time", "artista": "Bonnie Raitt" }
+{"id":650, "nome": "Paul's Boutique", "artista": "Beastie Boys" }
+{"id":651, "nome": "Playing with Fire", "artista": "Spacemen 3" }
+{"id":652, "nome": "Pump", "artista": "Aerosmith" }
+{"id":653, "nome": "Raw Like Sushi", "artista": "Neneh Cherry" }
+{"id":654, "nome": "Rhythm Nation 1814", "artista": "Janet Jackson" }
+{"id":655, "nome": "Technique", "artista": "New Order" }
+{"id":656, "nome": "The Healer", "artista": "John Lee Hooker" }
+{"id":657, "nome": "The Real Thing", "artista": "Faith No More" }
+{"id":658, "nome": "The Sensual World", "artista": "Kate Bush" }
+{"id":659, "nome": "The Stone Roses", "artista": "The Stone Roses" }
+{"id":660, "nome": "Three Feet High and Rising", "artista": "De La Soul" }
+{"id":661, "nome": "What's That Noise?", "artista": "Coldcut" }
+{"id":662, "nome": "Disintegration", "artista": "The Cure" }
+{"id":663, "nome": "AmeriKKKa's Most Wanted", "artista": "Ice Cube" }
+{"id":664, "nome": "Behaviour", "artista": "Pet Shop Boys" }
+{"id":665, "nome": "Bossanova", "artista": "The Pixies" }
+{"id":666, "nome": "En-Tact", "artista": "The Shamen" }
+{"id":667, "nome": "Fear Of A Black Planet", "artista": "Public Enemy" }
+{"id":668, "nome": "Goo", "artista": "Sonic Youth" }
+{"id":669, "nome": "Heaven or Las Vegas", "artista": "Cocteau Twins" }
+{"id":670, "nome": "I Do Not Want What I Haven't Got", "artista": "Sinead O'Connor" }
+{"id":671, "nome": "Listen Without Prejudice", "artista": "George Michael" }
+{"id":672, "nome": "Mama Said Knock You Out", "artista": "LL Cool J" }
+{"id":673, "nome": "Nowhere", "artista": "Ride" }
+{"id":674, "nome": "People's Instinctive Paths", "artista": "A Tribe Called Quest" }
+{"id":675, "nome": "Pills 'n' Thrills 'n' Bellyaches", "artista": "Happy Mondays" }
+{"id":676, "nome": "Ragged Glory", "artista": "Neil Young" }
+{"id":677, "nome": "Repeater", "artista": "Fugazi" }
+{"id":678, "nome": "Ritual De Lo Habitual", "artista": "Jane's Addiction" }
+{"id":679, "nome": "Rust In Peace", "artista": "Megadeth" }
+{"id":680, "nome": "Sex Packets", "artista": "Digital Underground" }
+{"id":681, "nome": "Shake Your Money Maker", "artista": "The Black Crowes" }
+{"id":682, "nome": "The La's", "artista": "The La's" }
+{"id":683, "nome": "The White Room", "artista": "KLF" }
+{"id":684, "nome": "Violator", "artista": "Depeche Mode" }
+{"id":685, "nome": "World Clique", "artista": "Deee-Lite" }
+{"id":686, "nome": "Achtung Baby", "artista": "U2" }
+{"id":687, "nome": "Apocalypse '91 … The Enemy Strikes Black", "artista": "Public Enemy" }
+{"id":688, "nome": "Arise", "artista": "Sepultura" }
+{"id":689, "nome": "Bandwagonesque", "artista": "Teenage Fanclub" }
+{"id":690, "nome": "Blood Sugar Sex Magik", "artista": "Red Hot Chili Peppers" }
+{"id":691, "nome": "Blue Lines", "artista": "Massive Attack" }
+{"id":692, "nome": "Cypress Hill", "artista": "Cypress Hill" }
+{"id":693, "nome": "Every Good Boy Deserves Fudge", "artista": "Mudhoney" }
+{"id":694, "nome": "Foxbase Alpha", "artista": "Saint Etienne" }
+{"id":695, "nome": "Haut de Gamme–Koweit Rive Gauche", "artista": "Koffi Olomide" }
+{"id":696, "nome": "Loveless", "artista": "My Bloody Valentine" }
+{"id":697, "nome": "Metallica", "artista": "Metallica" }
+{"id":698, "nome": "Nevermind", "artista": "Nirvana" }
+{"id":699, "nome": "O.G. Original Gangster", "artista": "Ice-T" }
+{"id":700, "nome": "Peggy Suicide", "artista": "Julian Cope" }
+{"id":701, "nome": "Rising Above Bedlam", "artista": "Jah Wobble And the Invaders of the Heart" }
+{"id":702, "nome": "Screamadelica", "artista": "Primal Scream" }
+{"id":703, "nome": "Spiderland", "artista": "Slint" }
+{"id":704, "nome": "Step in the Arena", "artista": "Gang Starr" }
+{"id":705, "nome": "The Low End Theory", "artista": "A Tribe Called Quest" }
+{"id":706, "nome": "Woodface", "artista": "Crowded House" }
+{"id":707, "nome": "A Vulgar Display Of Power", "artista": "Pantera" }
+{"id":708, "nome": "Automatic for the People", "artista": "R.E.M." }
+{"id":709, "nome": "Bizarre Ride II The Pharcyde", "artista": "The Pharcyde" }
+{"id":710, "nome": "Bone Machine", "artista": "Tom Waits" }
+{"id":711, "nome": "Connected", "artista": "Stereo MC's" }
+{"id":712, "nome": "Copper Blue", "artista": "Sugar" }
+{"id":713, "nome": "Devotional Songs", "artista": "Nusrat Fateh Ali Khan & Party" }
+{"id":714, "nome": "Dirt", "artista": "Alice in Chains" }
+{"id":715, "nome": "Dirty", "artista": "Sonic Youth" }
+{"id":716, "nome": "Dry", "artista": "P.J. Harvey" }
+{"id":717, "nome": "Henry's Dream", "artista": "Nick Cave & the Bad Seeds" }
+{"id":718, "nome": "Hipocrisy Is The Greatest Luxury", "artista": "Disposable Heroes of Hiphoprisy" }
+{"id":719, "nome": "Ingénue", "artista": "k.d. lang" }
+{"id":720, "nome": "It's A Shame About Ray", "artista": "The Lemonheads" }
+{"id":721, "nome": "Lam Toro", "artista": "Baaba Maal" }
+{"id":722, "nome": "Lazer Guided Melodies", "artista": "Spiritualized" }
+{"id":723, "nome": "Little Earthquakes", "artista": "Tori Amos" }
+{"id":724, "nome": "Psalm 69", "artista": "Ministry" }
+{"id":725, "nome": "Selected Ambient Works '85–'92", "artista": "Aphex Twin" }
+{"id":726, "nome": "Ten", "artista": "Pearl Jam" }
+{"id":727, "nome": "Three Years, Five Months, And Two Days In The Life Of...", "artista": "Arrested Development" }
+{"id":728, "nome": "Your Arsenal", "artista": "Morrissey" }
+{"id":729, "nome": "Aimee Mann", "artista": "Whatever" }
+{"id":730, "nome": "Bubble & Scrape", "artista": "Sebadoh" }
+{"id":731, "nome": "Debut", "artista": "Björk" }
+{"id":732, "nome": "Doggy Style", "artista": "Snoop Dogg" }
+{"id":733, "nome": "Emergency on Planet Earth", "artista": "Jamiroquai" }
+{"id":734, "nome": "Enter The Wu-Tang", "artista": "Wu-Tang Clan" }
+{"id":735, "nome": "Fuzzy", "artista": "Grant Lee Buffalo" }
+{"id":736, "nome": "Gentleman", "artista": "The Afghan Whigs" }
+{"id":737, "nome": "Giant Steps", "artista": "The Boo Radleys" }
+{"id":738, "nome": "In Utero", "artista": "Nirvana" }
+{"id":739, "nome": "Modern Life is Rubbish", "artista": "Blur" }
+{"id":740, "nome": "New Wave", "artista": "Auteurs" }
+{"id":741, "nome": "Orbital II", "artista": "Orbital" }
+{"id":742, "nome": "Qui sème le vent récolte le tempo", "artista": "MC Solaar" }
+{"id":743, "nome": "Rage Against The Machine", "artista": "Rage Against The Machine" }
+{"id":744, "nome": "Rid Of Me", "artista": "P.J. Harvey" }
+{"id":745, "nome": "Siamese Dream", "artista": "Smashing Pumpkins" }
+{"id":746, "nome": "Slanted And Enchanted", "artista": "Pavement" }
+{"id":747, "nome": "Strange Cargo III", "artista": "William Orbit" }
+{"id":748, "nome": "Suede", "artista": "Suede" }
+{"id":749, "nome": "The Chronic", "artista": "Dr Dre" }
+{"id":750, "nome": "The Infotainment Scan", "artista": "The Fall" }
+{"id":751, "nome": "The Predator", "artista": "Ice Cube" }
+{"id":752, "nome": "Tuesday Night Music Club", "artista": "Sheryl Crow" }
+{"id":753, "nome": "Venus Luxure No1 Baby", "artista": "Girls Against Boys" }
+{"id":754, "nome": "Very", "artista": "Pet Shop Boys" }
+{"id":755, "nome": "Wild Wood", "artista": "Paul Weller" }
+{"id":756, "nome": "Brutal Youth", "artista": "Elvis Costello" }
+{"id":757, "nome": "Crooked Rain, Crooked Rain", "artista": "Pavement" }
+{"id":758, "nome": "Definitely Maybe", "artista": "Oasis" }
+{"id":759, "nome": "Dog Man Star", "artista": "Suede" }
+{"id":760, "nome": "Dookie", "artista": "Green Day" }
+{"id":761, "nome": "Dummy", "artista": "Portishead" }
+{"id":762, "nome": "Exile in Guyville", "artista": "Liz Phair" }
+{"id":763, "nome": "G Love & Special Sauce", "artista": "G Love & Special Sauce" }
+{"id":764, "nome": "Haunted Dancehall", "artista": "Sabres Of Paradise" }
+{"id":765, "nome": "Ill Communication", "artista": "Beastie Boys" }
+{"id":766, "nome": "Illmatic", "artista": "Nas" }
+{"id":767, "nome": "Live Through This", "artista": "Hole" }
+{"id":768, "nome": "Me Against the World", "artista": "Tupac Shakur" }
+{"id":769, "nome": "Music for the Jilted Generation", "artista": "Prodigy" }
+{"id":770, "nome": "Parklife", "artista": "Blur" }
+{"id":771, "nome": "Protection", "artista": "Massive Attack" }
+{"id":772, "nome": "Ready to Die", "artista": "Notorious B.I.G." }
+{"id":773, "nome": "Smash", "artista": "Offspring" }
+{"id":774, "nome": "Snivilisation", "artista": "Orbital" }
+{"id":775, "nome": "Superunknown", "artista": "Soundgarden" }
+{"id":776, "nome": "Talking Timbuktu", "artista": "Ali Farka Toure with Ry Cooder" }
+{"id":777, "nome": "Teenager of the Year", "artista": "Frank Black" }
+{"id":778, "nome": "The Downward Spiral", "artista": "Nine Inch Nails" }
+{"id":779, "nome": "The Holy Bible", "artista": "The Manic Street Preachers" }
+{"id":780, "nome": "The Sun Rises In The East", "artista": "Jeru The Damaja" }
+{"id":781, "nome": "Tical", "artista": "Method Man" }
+{"id":782, "nome": "MTV Unplugged in New York", "artista": "Nirvana" }
+{"id":783, "nome": "Vauxhall and I", "artista": "Morrissey" }
+{"id":784, "nome": "Yank Crime", "artista": "Drive Like Jehu" }
+{"id":785, "nome": "Grace", "artista": "Jeff Buckley" }
+{"id":786, "nome": "(What's The Story) Morning Glory?", "artista": "Oasis" }
+{"id":787, "nome": "A Northern Soul", "artista": "The Verve" }
+{"id":788, "nome": "Alien Lanes", "artista": "Guided By Voices" }
+{"id":789, "nome": "Brown Sugar", "artista": "D'Angelo" }
+{"id":790, "nome": "CrazySexyCool", "artista": "TLC" }
+{"id":791, "nome": "Different Class", "artista": "Pulp" }
+{"id":792, "nome": "Elastica", "artista": "Elastica" }
+{"id":793, "nome": "Exit Planet Dust", "artista": "The Chemical Brothers" }
+{"id":794, "nome": "Femi Kuti", "artista": "Femi Kuti" }
+{"id":795, "nome": "Foo Fighters", "artista": "Foo Fighters" }
+{"id":796, "nome": "Garbage", "artista": "Garbage" }
+{"id":797, "nome": "I Should Coco", "artista": "Supergrass" }
+{"id":798, "nome": "Jagged Little Pill", "artista": "Alanis Morissette" }
+{"id":799, "nome": "Leftism", "artista": "Leftfield" }
+{"id":800, "nome": "Liquid Swords", "artista": "Genius/GZA" }
+{"id":801, "nome": "Maxinquaye", "artista": "Tricky" }
+{"id":802, "nome": "Mellon Collie and the Infinite Sadness", "artista": "Smashing Pumpkins" }
+{"id":803, "nome": "Only Built 4 Cuban Linx", "artista": "Raekwon" }
+{"id":804, "nome": "Scream, Dracula, Scream!", "artista": "Rocket From The Crypt" }
+{"id":805, "nome": "Smoker's Delight", "artista": "Nightmares on Wax" }
+{"id":806, "nome": "The Bends", "artista": "Radiohead" }
+{"id":807, "nome": "Timeless", "artista": "Goldie" }
+{"id":808, "nome": "1977", "artista": "Ash" }
+{"id":809, "nome": "Antichrist Superstar", "artista": "Marilyn Manson" }
+{"id":810, "nome": "Beautiful Freak", "artista": "The Eels" }
+{"id":811, "nome": "Being There", "artista": "Wilco" }
+{"id":812, "nome": "Better Living Through Chemistry", "artista": "Fatboy Slim" }
+{"id":813, "nome": "Casanova", "artista": "The Divine Comedy" }
+{"id":814, "nome": "Come Find Yourself", "artista": "The Fun Lovin' Criminals" }
+{"id":815, "nome": "Dr Octagonecologyst", "artista": "Dr Octagon" }
+{"id":816, "nome": "Dust", "artista": "Screaming Trees" }
+{"id":817, "nome": "Emperor Tomato Ketchup", "artista": "Stereolab" }
+{"id":818, "nome": "Endtroducing...", "artista": "DJ Shadow" }
+{"id":819, "nome": "Everything Must Go", "artista": "The Manic Street Preachers" }
+{"id":820, "nome": "First Band On The Moon", "artista": "The Cardigans" }
+{"id":821, "nome": "Fuzzy Logic", "artista": "Super Furry Animals" }
+{"id":822, "nome": "If You're Feeling Sinister", "artista": "Belle & Sebastian" }
+{"id":823, "nome": "Logical Progression", "artista": "LTJ Bukem" }
+{"id":824, "nome": "Maxwell's Urban Hang Suite", "artista": "Maxwell" }
+{"id":825, "nome": "Millions Now Living Will Never Die", "artista": "Tortoise" }
+{"id":826, "nome": "Murder Ballads", "artista": "Nick Cave & the Bad Seeds" }
+{"id":827, "nome": "Now I Got Worry", "artista": "Jon Spencer Blues Explosion" }
+{"id":828, "nome": "Odelay", "artista": "Beck" }
+{"id":829, "nome": "Oedipus Schmoedipus", "artista": "Barry Adamson" }
+{"id":830, "nome": "Roots", "artista": "Sepultura" }
+{"id":831, "nome": "Second Toughest in the Infants", "artista": "Underworld" }
+{"id":832, "nome": "Tellin' Stories", "artista": "The Charlatans" }
+{"id":833, "nome": "The Score", "artista": "The Fugees" }
+{"id":834, "nome": "Tidal", "artista": "Fiona Apple" }
+{"id":835, "nome": "Tigermilk", "artista": "Belle & Sebastian" }
+{"id":836, "nome": "Walking Wounded", "artista": "Everything But the Girl" }
+{"id":837, "nome": "A Short Album About Love", "artista": "The Divine Comedy" }
+{"id":838, "nome": "Blur", "artista": "Blur" }
+{"id":839, "nome": "Buena Vista Social Club", "artista": "Buena Vista Social Club" }
+{"id":840, "nome": "Butterfly", "artista": "Mariah Carey" }
+{"id":841, "nome": "Dig Me Out", "artista": "Sleater-Kinney" }
+{"id":842, "nome": "Dig Your Own Hole", "artista": "The Chemical Brothers" }
+{"id":843, "nome": "Either/Or", "artista": "Elliott Smith" }
+{"id":844, "nome": "Homework", "artista": "Daft Punk" }
+{"id":845, "nome": "In It For The Money", "artista": "Supergrass" }
+{"id":846, "nome": "Ladies And Gentlemen, We Are Floating in Space", "artista": "Spiritualized" }
+{"id":847, "nome": "Let's Get Killed", "artista": "David Holmes" }
+{"id":848, "nome": "Life Thru A Lens", "artista": "Robbie Williams" }
+{"id":849, "nome": "Maverick A Strike", "artista": "Finlay Quaye" }
+{"id":850, "nome": "New Forms", "artista": "Roni Size/Reprazent" }
+{"id":851, "nome": "OK Computer", "artista": "Radiohead" }
+{"id":852, "nome": "Schleep", "artista": "Robert Wyatt" }
+{"id":853, "nome": "Supa Dupa Fly", "artista": "Missy Elliott" }
+{"id":854, "nome": "The Boatman's Call", "artista": "Nick Cave & the Bad Seeds" }
+{"id":855, "nome": "The Fat of the Land", "artista": "Prodigy" }
+{"id":856, "nome": "Time Out of Mind", "artista": "Bob Dylan" }
+{"id":857, "nome": "Urban Hymns", "artista": "The Verve" }
+{"id":858, "nome": "Vanishing Point", "artista": "Primal Scream" }
+{"id":859, "nome": "When I Was Born For The 7th Time", "artista": "Cornershop" }
+{"id":860, "nome": "Apocalypse Dudes", "artista": "Turbonegro" }
+{"id":861, "nome": "Bob Dylan Live 1966 ('Royal Albert Hall' Bootleg)", "artista": "Bob Dylan" }
+{"id":862, "nome": "Car Wheels On A Gravel Road", "artista": "Lucinda Williams" }
+{"id":863, "nome": "Celebrity Skin", "artista": "Hole" }
+{"id":864, "nome": "Clandestino", "artista": "Manu Chao" }
+{"id":865, "nome": "Deserter's Songs", "artista": "Mercury Rev" }
+{"id":866, "nome": "Devil Without A Cause", "artista": "Kid Rock" }
+{"id":867, "nome": "Follow the Leader", "artista": "Korn" }
+{"id":868, "nome": "I See A Darkness", "artista": "Bonnie 'Prince' Billy" }
+{"id":869, "nome": "Kenza", "artista": "Khaled" }
+{"id":870, "nome": "Mermaid Avenue", "artista": "Billy Bragg/Wilco" }
+{"id":871, "nome": "Moon Safari", "artista": "Air" }
+{"id":872, "nome": "Music Has the Right to Children", "artista": "Boards of Canada" }
+{"id":873, "nome": "OK", "artista": "Talvin Singh" }
+{"id":874, "nome": "Queens Of The Stone Age", "artista": "Queens Of The Stone Age" }
+{"id":875, "nome": "Ray of Light", "artista": "Madonna" }
+{"id":876, "nome": "System Of A Down", "artista": "System Of A Down" }
+{"id":877, "nome": "The Miseducation Of Lauryn Hill", "artista": "Lauryn Hill" }
+{"id":878, "nome": "This is Hardcore", "artista": "Pulp" }
+{"id":879, "nome": "White Ladder", "artista": "David Gray" }
+{"id":880, "nome": "You've Come a Long Way, Baby", "artista": "Fatboy Slim" }
+{"id":881, "nome": "69 Love Songs", "artista": "The Magnetic Fields" }
+{"id":882, "nome": "Agaetis Byrjun", "artista": "Sigur Ros" }
+{"id":883, "nome": "Apple Venus Vol. 1", "artista": "XTC" }
+{"id":884, "nome": "Beyond Skin", "artista": "Nitin Sawhney" }
+{"id":885, "nome": "Californication", "artista": "Red Hot Chili Peppers" }
+{"id":886, "nome": "Central Reservation", "artista": "Beth Orton" }
+{"id":887, "nome": "Darkdancer", "artista": "Les Rhythmes Digitales" }
+{"id":888, "nome": "HMS Fable", "artista": "Shack" }
+{"id":889, "nome": "Le Tigre", "artista": "Le Tigre" }
+{"id":890, "nome": "Make Yourself", "artista": "Incubus" }
+{"id":891, "nome": "Play", "artista": "Moby" }
+{"id":892, "nome": "Remedy", "artista": "Basement Jaxx" }
+{"id":893, "nome": "S&M", "artista": "Metallica" }
+{"id":894, "nome": "Slipknot", "artista": "Slipknot" }
+{"id":895, "nome": "São Paulo Confessions", "artista": "Suba" }
+{"id":896, "nome": "The Contino Sessions", "artista": "Death in Vegas" }
+{"id":897, "nome": "The Man Who", "artista": "Travis" }
+{"id":898, "nome": "The Slim Shady LP", "artista": "Eminem" }
+{"id":899, "nome": "The Soft Bulletin", "artista": "The Flaming Lips" }
+{"id":900, "nome": "All That You Can't Leave Behind", "artista": "U2" }
+{"id":901, "nome": "Felt Mountain", "artista": "Goldfrapp" }
+{"id":902, "nome": "Figure 8", "artista": "Elliott Smith" }
+{"id":903, "nome": "Heartbreaker", "artista": "Ryan Adams" }
+{"id":904, "nome": "Kid A", "artista": "Radiohead" }
+{"id":905, "nome": "Like Water For Chocolate", "artista": "Common" }
+{"id":906, "nome": "Lost Souls", "artista": "The Doves" }
+{"id":907, "nome": "Mama's Gun", "artista": "Erykah Badu" }
+{"id":908, "nome": "Music", "artista": "Madonna" }
+{"id":909, "nome": "Nixon", "artista": "Lambchop" }
+{"id":910, "nome": "Our Aim is to Satisfy", "artista": "Red Snapper" }
+{"id":911, "nome": "Parachutes", "artista": "Coldplay" }
+{"id":912, "nome": "Punishing Kiss", "artista": "Ute Lemper" }
+{"id":913, "nome": "Red Dirt Girl", "artista": "Emmylou Harris" }
+{"id":914, "nome": "Since I Left You", "artista": "The Avalanches" }
+{"id":915, "nome": "Sincere", "artista": "MJ Cole" }
+{"id":916, "nome": "Stankonia", "artista": "Outkast" }
+{"id":917, "nome": "Stories From The City, Stories From The Sea", "artista": "PJ Harvey" }
+{"id":918, "nome": "Tanto Tempo", "artista": "Bebel Gilberto" }
+{"id":919, "nome": "The Hour Of Bewilderbeast", "artista": "Badly Drawn Boy" }
+{"id":920, "nome": "The Marshall Mathers LP", "artista": "Eminem" }
+{"id":921, "nome": "The Virgin Suicides", "artista": "Air" }
+{"id":922, "nome": "Welcome to the Afterfuture", "artista": "Mike Ladd" }
+{"id":923, "nome": "Bright Flight", "artista": "Silver Jews" }
+{"id":924, "nome": "Gold", "artista": "Ryan Adams" }
+{"id":925, "nome": "Is This It", "artista": "The Strokes" }
+{"id":926, "nome": "La Revancha del Tango", "artista": "Gotan Project" }
+{"id":927, "nome": "Melody A.M.", "artista": "Röyksopp" }
+{"id":928, "nome": "Rings Around the World", "artista": "Super Furry Animals" }
+{"id":929, "nome": "Southern Rock Opera", "artista": "Drive-By Truckers" }
+{"id":930, "nome": "The Blueprint", "artista": "Jay-Z" }
+{"id":931, "nome": "Time (The Revelator)", "artista": "Gillian Welch" }
+{"id":932, "nome": "Vespertine", "artista": "Björk" }
+{"id":933, "nome": "White Blood Cells", "artista": "The White Stripes" }
+{"id":934, "nome": "A Little Deeper", "artista": "Ms Dynamite" }
+{"id":935, "nome": "A Rush of Blood to the Head", "artista": "Coldplay" }
+{"id":936, "nome": "American IV: The Man Comes Around", "artista": "Johnny Cash" }
+{"id":937, "nome": "Come Away With Me", "artista": "Norah Jones" }
+{"id":938, "nome": "Yankee Hotel Foxtrot", "artista": "Wilco" }
+{"id":939, "nome": "Phrenology", "artista": "The Roots" }
+{"id":940, "nome": "Power in Numbers", "artista": "Jurassic 5" }
+{"id":941, "nome": "Sea Change", "artista": "Beck" }
+{"id":942, "nome": "The Coral", "artista": "The Coral" }
+{"id":943, "nome": "The Last Broadcast", "artista": "The Doves" }
+{"id":944, "nome": "The Rising", "artista": "Bruce Springsteen" }
+{"id":945, "nome": "Under Construction", "artista": "Missy Elliott" }
+{"id":946, "nome": "Yoshimi Battles the Pink Robots", "artista": "The Flaming Lips" }
+{"id":947, "nome": "Boy in da Corner", "artista": "Dizzee Rascal" }
+{"id":948, "nome": "De-loused at the Crematorium", "artista": "The Mars Volta" }
+{"id":949, "nome": "Elephant", "artista": "The White Stripes" }
+{"id":950, "nome": "Fever To Tell", "artista": "Yeah Yeah Yeahs" }
+{"id":951, "nome": "Speakerboxxx/The Love Below", "artista": "Outkast" }
+{"id":952, "nome": "Wonderful Rainbow", "artista": "Lightning Bolt" }
+{"id":953, "nome": "A Grand Don't Come For Free", "artista": "The Streets" }
+{"id":954, "nome": "Abattoir Blues/The Lyre Of Orpheus", "artista": "Nick Cave & The Bad Seeds" }
+{"id":955, "nome": "American Idiot", "artista": "Green Day" }
+{"id":956, "nome": "Cee-Lo Green Is The Soul Machine", "artista": "Cee-Lo" }
+{"id":957, "nome": "Destroy Rock & Roll", "artista": "Mylo" }
+{"id":958, "nome": "Franz Ferdinand", "artista": "Franz Ferdinand" }
+{"id":959, "nome": "Funeral", "artista": "Arcade Fire" }
+{"id":960, "nome": "Penance Soiree", "artista": "The Icarus Line" }
+{"id":961, "nome": "Rejoicing in the Hands", "artista": "Devendra Banhart" }
+{"id":962, "nome": "Street Signs", "artista": "Ozomatli" }
+{"id":963, "nome": "The College Dropout", "artista": "Kanye West" }
+{"id":964, "nome": "Want Two", "artista": "Rufus Wainwright" }
+{"id":965, "nome": "You Are The Quarry", "artista": "Morrissey" }
+{"id":966, "nome": "Be", "artista": "Common" }
+{"id":967, "nome": "Cole's Corner", "artista": "Richard Hawley" }
+{"id":968, "nome": "Illinois", "artista": "Sufjan Stevens" }
+{"id":969, "nome": "Back to Black", "artista": "Amy Winehouse" }
+{"id":970, "nome": "Fishscale", "artista": "Ghostface Killah" }
+{"id":971, "nome": "Food & Liquor", "artista": "Lupe Fiasco" }
+{"id":972, "nome": "Savane", "artista": "Ali Farka Touré" }
+{"id":973, "nome": "Whatever People Say I Am", "artista": "Arctic Monkeys" }
+{"id":974, "nome": "Ys", "artista": "Joanna Newsom" }
+{"id":975, "nome": "Cross", "artista": "Justice" }
+{"id":976, "nome": "In Rainbows", "artista": "Radiohead" }
+{"id":977, "nome": "Kala", "artista": "MIA" }
+{"id":978, "nome": "The Sound of Silver", "artista": "LCD Soundsystem" }
+{"id":979, "nome": "All Hope is Gone", "artista": "Slipknot" }
+{"id":980, "nome": "Dear Science", "artista": "TV on the Radio" }
+{"id":981, "nome": "Fleet Foxes", "artista": "Fleet Foxes" }
+{"id":982, "nome": "Oracular Spectacular", "artista": "MGMT" }
+{"id":983, "nome": "Seldom See Kid", "artista": "Elbow" }
+{"id":984, "nome": "The Renaissance", "artista": "Q-Tip" }
+{"id":985, "nome": "Third", "artista": "Portishead" }
+{"id":986, "nome": "Bitte Orca", "artista": "Dirty Projectors" }
+{"id":987, "nome": "Fever Ray", "artista": "Fever Ray" }
+{"id":988, "nome": "It's Blitz", "artista": "Yeah Yeah Yeahs" }
+{"id":989, "nome": "Merriweather Post Pavilion", "artista": "Animal Collective" }
+{"id":990, "nome": "Sometimes I Wish I Were an Eagle", "artista": "Bill Callahan" }
+{"id":991, "nome": "Two Dancers", "artista": "Wild Beasts" }
+{"id":992, "nome": "Veckatimest", "artista": "Grizzly Bear" }
+{"id":993, "nome": "xx", "artista": "The xx" }
+{"id":994, "nome": "Brothers", "artista": "The Black Keys" }
+{"id":995, "nome": "Halcyon Digest", "artista": "Deerhunter" }
+{"id":996, "nome": "The National", "artista": "The National" }
+{"id":997, "nome": "My Beautiful Dark Twisted Fantasy", "artista": "Kanye West" }
+{"id":998, "nome": "Queen of Denmark", "artista": "John Grant" }
+{"id":999, "nome": "Teen Dream", "artista": "Beach House" }
+{"id":1000, "nome": "The ArchAndroid", "artista": "Janelle Monae" }
+{"id":1001, "nome": "The Suburbs", "artista": "Arcade Fire" }
